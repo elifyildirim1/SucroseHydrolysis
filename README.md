@@ -25,11 +25,11 @@ The hydrolysis reaction of sucrose follows Michaelis Menten Kinetics. The main k
 # In this python model, it is aimed to:
   - Calculate the initial reaction rates over time.
 
-  - To use the UV-Vis absorbance data of glucose to find the concentration of glucose formed over time. 
+  - Use the UV-Vis absorbance data of glucose to find the concentration of glucose formed over time. 
 
   - Accurately determine 𝑉max⁡ and 𝐾𝑚​ from the data.
 
-# And also plotting:
+# And also to plot:
   - Michaelis-Menten Plot: Plot initial reaction rate (𝑣) versus substrate concentration ([𝑆]).
   - Lineweaver-Burk Plot: Plot 1/𝑣 versus 1/[𝑆] to linearize the Michaelis-Menten equation.
   - Reaction Rate vs. Time: Plot reaction rate data over time to observe the reaction kinetics. 
